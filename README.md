@@ -1,4 +1,4 @@
-[![StackStorm](https://github.com/stackstorm/st2/raw/master/stackstorm_logo.png)](https://www.stackstorm.com)
+[![StackStorms](https://github.com/stackstorm/st2/raw/master/stackstorm_logo.png)](https://www.stackstorm.com)
 
 **StackStorm** is a platform for integration and automation across services and tools, taking actions in response to events. Learn more at [www.stackstorm.com](http://www.stackstorm.com/product).
 
