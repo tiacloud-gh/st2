@@ -1,4 +1,4 @@
-### Don't edit this file. It's generated automatically!
+## Don't edit this file. It's generated automatically!
 # If you want to update global dependencies, modify fixed-requirements.txt
 # and then run 'make requirements' to update requirements.txt for all
 # components.
